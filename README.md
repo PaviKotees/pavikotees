@@ -7,7 +7,7 @@
   
 <h2>📺 Certification</h2>
 
-- [CompTIA Security+]()
+- [CompTIA Security+](https://github.com/PaviKotees/pavikotees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
 - MS-900 (Microsoft Fundamentals)
 - AZ-900 (Azure Fundamentals)
 
