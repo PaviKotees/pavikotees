@@ -8,6 +8,8 @@
 <h2>📺 Certification</h2>
 
 - [CompTIA Security+]()
+- MS-900 (Microsoft Fundamentals)
+- AZ-900 (Azure Fundamentals)
 
 
 <h2> 🤳 Connect with me:</h2>
