@@ -1,9 +1,13 @@
 <h1>Hi, I'm Pavithran! </h1>
 
+<h2>👨‍💻 IT Projects:</h2>
+
+- [Active Directory Virtual Lab](https://github.com/PaviKotees/ActiveDirectoryLab)
+- [Automation Using Python](https://github.com/pavikotees/)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Virtual Lab](https://github.com/PaviKotees/ActiveDirectoryLab)
-  - [Automation Using Python](https://github.com/pavikotees/)
+  - [Hacking A Vulnerable System](https://github.com/pavikotees/)
   
 <h2>📺 Certification</h2>
 
