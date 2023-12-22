@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Virtual Lab](https://github.com/pavikotees/)
+  - [Active Directory Virtual Lab](h[ttps://github.com/pavikotees/](https://github.com/PaviKotees/ActiveDirectoryLab))
   - [Automation Using Python](https://github.com/pavikotees/)
   
 <h2>📺 Certification</h2>
