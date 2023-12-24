@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory Virtual Lab](https://github.com/PaviKotees/ActiveDirectoryLab)
+- [Active Directory Dynamics](https://github.com/PaviKotees/ActiveDirectoryLab)
 - [Automation Using Python](https://github.com/pavikotees/)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
