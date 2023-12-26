@@ -3,9 +3,9 @@
 <h2>📺 Certification</h2>
 
 - [CompTIA Security+](https://github.com/PaviKotees/pavikotees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
+- [CompTIA CySA+]
 - MS-900 (Microsoft Fundamentals)
 - AZ-900 (Azure Fundamentals)
-- [CompTIA CySA+]
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -16,14 +16,6 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Active Directory Dynamics](https://github.com/PaviKotees/ActiveDirectoryLab)
-
-  
-<h2>📺 Certification</h2>
-
-- [CompTIA Security+](https://github.com/PaviKotees/pavikotees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
-- MS-900 (Microsoft Fundamentals)
-- AZ-900 (Azure Fundamentals)
-- [CompTIA CySA+]
 
 
 <h2> 🤳 Connect with me:</h2>
