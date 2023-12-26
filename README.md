@@ -1,9 +1,17 @@
 <h1>Hi, I'm Pavithran! </h1>
 
+<h2>📺 Certification</h2>
+
+- [CompTIA Security+](https://github.com/PaviKotees/pavikotees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
+- MS-900 (Microsoft Fundamentals)
+- AZ-900 (Azure Fundamentals)
+- [CompTIA CySA+]
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - Setting up and monitoring of home network using SIEM
   - [Hacking A Vulnerable System](https://github.com/pavikotees/)
-  - [Setting up and monitoring of home network using SIEM] 
+  
 
 <h2>👨‍💻 IT Projects:</h2>
 
