@@ -1,6 +1,6 @@
 <h1>Hi, I'm Pavithran! </h1>
 
-<h2>📺 Certification:</h2>
+<h2>📺 Certifications:</h2>
 
 - [CompTIA Security+](https://github.com/PaviKotees/pavikotees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
 - CompTIA CySA+
