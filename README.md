@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - Setting up and monitoring of home network using SIEM
+  - Setting up and monitoring of network using SIEM
   - [Hacking A Vulnerable System](https://github.com/pavikotees/)
   
 
