@@ -3,15 +3,8 @@
 <h2>📺 Certifications:</h2>
 
 - [CompTIA Security+](https://github.com/PaviKotees/pavikotees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
-- CompTIA CySA+
-- MS-900 (Microsoft Fundamentals)
+- CompTIA CySA+ (Preparing)
 - AZ-900 (Azure Fundamentals)
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-  - Setting up and monitoring of network using SIEM
-  - [Hacking A Vulnerable System](https://github.com/pavikotees/)
-  
 
 <h2>👨‍💻 IT Projects:</h2>
 
