@@ -16,10 +16,8 @@
 
 
 [<img align="left" alt="pavithran-kotees | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pavi_kotees | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/pavi_kotees/
 [linkedin]: https://www.linkedin.com/in/pavithran-kotees/
 
 
