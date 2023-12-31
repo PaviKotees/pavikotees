@@ -8,7 +8,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory Dynamics](https://github.com/PaviKotees/ActiveDirectoryLab)
+- [Active Directory Dynamics](https://github.com/PaviKotees/Active-Directory-Dynamics)
 
 
 <h2> 🤳 Connect with me:</h2>
