@@ -9,6 +9,8 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Active Directory Dynamics](https://github.com/PaviKotees/Active-Directory-Dynamics)
+- Network Guardian
+- Safehack Mastery
 
 
 <h2> 🤳 Connect with me:</h2>
