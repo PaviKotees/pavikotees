@@ -10,7 +10,7 @@
 
 - [Active Directory Dynamics](https://github.com/PaviKotees/Active-Directory-Dynamics)
 - Network Guardian
-- Safehack Mastery
+- [Safehack Mastery](https://github.com/PaviKotees/SafeHack)
 
 
 <h2> 🤳 Connect with me:</h2>
