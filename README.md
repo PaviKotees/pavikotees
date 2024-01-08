@@ -9,7 +9,7 @@
 
 - [Active Directory Dynamics](https://github.com/PaviKotees/Active-Directory-Dynamics)
 - Network Guardian
-- Malware Analysis Lab
+- [Malware Analysis Lab](https://github.com/PaviKotees/Malware-Analysis)
 
 
 <h2> 🤳 Connect with me:</h2>
