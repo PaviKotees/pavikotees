@@ -8,7 +8,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Active Directory Dynamics](https://github.com/PaviKotees/Active-Directory-Dynamics)
-- Network Guardian
+- [Network Guardian](https://github.com/PaviKotees/Network-Guardian)
 - [Malware Analysis Lab](https://github.com/PaviKotees/Malware-Analysis)
 
 
