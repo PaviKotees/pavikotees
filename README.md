@@ -3,7 +3,7 @@
 <h2>📺 Certifications:</h2>
 
 - [CompTIA Security+](https://github.com/PaviKotees/pavikotees/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
-- [ISC2 Certified In Cybersecurity (CC)]
+- ISC2 Certified In Cybersecurity (CC)
 - CompTIA CySA+ (In Prep)
 
 <h2>👨‍💻 IT Projects:</h2>
