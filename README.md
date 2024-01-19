@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pavithran! </h1>
+<h1>Hi, I'm Pavi ! </h1>
 
 <h2>📺 Certifications:</h2>
 
